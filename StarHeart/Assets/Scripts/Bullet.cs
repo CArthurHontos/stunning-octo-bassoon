@@ -13,4 +13,12 @@ public class Bullet : MonoBehaviour {
 		rb2d.velocity = movement;
 	}
 
+	void OnBecameInvisible () {
+		//Destroy self
+	}
+
+	void OnCollisionEnter2D () {
+		//doot that damage!
+	}
+
 }

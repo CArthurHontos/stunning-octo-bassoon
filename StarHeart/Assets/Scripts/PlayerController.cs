@@ -12,7 +12,6 @@ public class PlayerController : MonoBehaviour {
 	void Start()
 	{
 		rb2d = GetComponent<Rigidbody2D> ();
-		Instantiate (bullet);
 	}
 	void Update()
 	{
@@ -22,5 +21,9 @@ public class PlayerController : MonoBehaviour {
 		//rb2d.AddForce (movement * speed);
 		//rb2d.velocity = (movement * speed);
 		rb2d.position += (movement * speed);
+		if (Input.GetButtonDown("Fire1")) {
+			Instantiate (bullet, transform.position, transform.rotation);
+		}
+
 	}
 }
