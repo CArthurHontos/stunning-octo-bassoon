@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{5DD66516-5C6D-E510-A096-25FBC8B0ADE7}") = "StarHeart", "Assembly-CSharp.csproj", "{73DBAAAE-420B-D938-1104-61FD4F0857A9}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarHeart", "Assembly-CSharp.csproj", "{73DBAAAE-420B-D938-1104-61FD4F0857A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
