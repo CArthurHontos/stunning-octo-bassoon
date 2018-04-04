@@ -1,0 +1,17 @@
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/obj/Debug/Assembly-CSharp.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/UnityEngine.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/UnityEditor.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/Mono.Cecil.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/Unity.DataContract.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/carthur/Documents/GitHub/stunning-octo-bassoon/StarHeart/Temp/bin/Debug/Mono.Cecil.Mdb.dll
